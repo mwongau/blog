@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       
       <div>
-      <h1> M Wong</h1>
+      <h1> M. Wong</h1>
 	  <br />
       <h2>Home</h2>	  
       </div>
