@@ -1,13 +1,12 @@
 {
-  "name": "myblog",
+  "name": "blog",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "deploy": "next build && git add out/ -f && git commit -m \"Deploy\" && git subtree push --prefix out origin gh-pages"
+    "lint": "next lint"
   },
   "dependencies": {
     "eslint": "8.41.0",
@@ -15,8 +14,5 @@
     "next": "13.4.3",
     "react": "18.2.0",
     "react-dom": "18.2.0"
-  },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
   }
 }
