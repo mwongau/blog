@@ -20,7 +20,7 @@ export default function Page() {
 	  <p>This site might use cookies to improve the browsing experience of users. If you 
 	  continue to use this site, it is assumed that you agree to the use of cookies.</p> 
 	  <br /><br />
-	  <Link href="/about"><b>Go to About page</b></Link>
+	  <Link href="/posts"><b>Go to Blog page</b></Link>
       
       </div>
     </main>
