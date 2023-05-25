@@ -11,6 +11,8 @@ export default function Page() {
       <div>
       <h1> M Wong</h1>
 	  <br />
+	  <Link href="/"><b>Home</b></Link> | <Link href="/posts"><b>Blog</b></Link><br />
+	  
       <h2>Home</h2>	  
 	  
 	  <p>Welcome to my personal site. I am a researcher in computer vision and machine learning 
@@ -20,7 +22,6 @@ export default function Page() {
 	  <p>This site might use cookies to improve the browsing experience of users. If you 
 	  continue to use this site, it will be assumed that you agree to the use of cookies.</p> 
 	  <br /><br />
-	  <Link href="/posts"><b>Go to Blog page</b></Link>
       
       </div>
     </main>
