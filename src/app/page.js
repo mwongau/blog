@@ -9,13 +9,13 @@ export default function Page() {
     <main className={styles.main}>
       
       <div>
-      <h1> M. Wong</h1>
+      <h1> M Wong</h1>
 	  <br />
 	  <Link href="/"><b>Home</b></Link> | <Link href="/posts"><b>Blog</b></Link><br />
 	  
       <h2>Home</h2>	  
 	  
-	  <p>Welcome to my personal site. I am a researcher in computer vision and machine learning 
+	  <p>Welcome to personal site of M Wong. I am a researcher in computer vision and machine learning 
 	  with Ph.D in Computer Science, M.Sc and B.Sc(Hons.) in Electronic Engineering. I am also 
 	  interested in web app development. This site is built by using Next.js, React, JavaScript, 
 	  HTML and CSS. This site is hosted by GitHub Pages.</p>
