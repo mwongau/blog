@@ -9,7 +9,7 @@ export default function Page() {
     <main className={styles.main}>
       
       <div>
-      <h1> M Wong</h1>
+      <h1> M. Wong</h1>
 	  <br />
 	  <Link href="/"><b>Home</b></Link> | <Link href="/posts"><b>Blog</b></Link><br />
 	  
