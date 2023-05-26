@@ -11,7 +11,7 @@ export default function Page() {
       <div>
       <h1> M Wong</h1>
 	  <br />
-	  <Link href="/"><b>Home</b></Link> | <Link href="/posts"><b>Blog</b></Link><br />
+	  <Link href="/posts"> Go to Blog page </Link> <br />
 	  
       <h2>Home</h2>	  
 	  
