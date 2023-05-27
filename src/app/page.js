@@ -14,7 +14,8 @@ export default function Page() {
 	  <br />
 	  </div>
 	  <div>
-	  <br /><p><Link href="/posts"> Go to Blog page </Link></p> 
+	  <br />
+	  <p><Link href="/posts"> Go to blog </Link></p> 
       
 	  <h2>Home</h2>	  
 	  

@@ -3,8 +3,7 @@ import Link from 'next/link';
 export default function Page() {
   return (
     <>
-
-	  <h3><Link href="/posts">Return to Posts selection page</Link> </h3>
+	  <p><Link href="/posts"> Return to posts selection </Link></p> 
       <br />
 	  <h3>Title: About this site</h3>
 	  
