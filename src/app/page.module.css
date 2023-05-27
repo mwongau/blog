@@ -1,3 +1,4 @@
+/*
 .main {
   display: flex;
   flex-direction: column;
@@ -5,7 +6,7 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
-}
+} */
 
 .grid {
   display: grid;
@@ -34,3 +35,8 @@
     grid-template-columns: repeat(2, 50%);
   }
 }
+
+.header {
+  color: purple;
+  background-color: Lavender;
+}  
