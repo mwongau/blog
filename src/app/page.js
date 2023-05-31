@@ -5,7 +5,7 @@ export default function Page() {
   return (
     <div>    
 	  <div className={styles.header}>
-      <h1> M Wong</h1>
+      <h1> M. Wong</h1>
 	  <h3>My personal blog</h3>
 	  <br />
 	  </div>
