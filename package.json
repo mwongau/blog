@@ -10,10 +10,9 @@
     "deploy": "next build && touch out/.nojekyll && git add out/ -f && git commit -m \"Deploy\" && git subtree push --prefix out origin gh-pages"
   },
   "dependencies": {
-    "eslint": "8.41.0",
-    "eslint-config-next": "13.4.4",
-    "next": "15.0.3",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react": "19.0.0-rc-66855b96-20241106",
+    "react-dom": "19.0.0-rc-66855b96-20241106",
+    "next": "15.0.3"
   }
 }
+
